@@ -1,0 +1,13 @@
+URL: https://trn-asia.ttinteractive.com/
+User: devadmin
+Pass: devadmin@2022
+Code: usba
+
+
+DB:
+DB Configuration:
+
+202.191.121.193:4002
+
+Username: SA
+Password: Digigate@360
